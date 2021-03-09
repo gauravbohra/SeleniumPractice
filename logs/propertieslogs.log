@@ -1,0 +1,3 @@
+2021-01-25 19:26:58,457 [main] DEBUG Log4j - Hello from Log4j 2
+2021-01-25 19:26:58,462 [main] DEBUG Log4j - This is a Debug Message!
+2021-01-25 19:26:58,462 [main] INFO  Log4j - This is an Info Message!
